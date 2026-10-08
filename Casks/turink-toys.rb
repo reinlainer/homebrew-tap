@@ -10,8 +10,8 @@
 # unsigned build launch without the user visiting System Settings.
 
 cask "turink-toys" do
-  version "0.1.0"
-  sha256 "809a59218496759ad7519c409d295b03ee84ef38bb982c0537a66deb4c8eec97"
+  version "0.2.0"
+  sha256 "db03b0117382be609b65f97a5ce321783aad366205c55bc21c45a035bfba1dc5"
 
   url "https://github.com/reinlainer/turink-toys/releases/download/v#{version}/turink-toys-#{version}.zip"
   name "Turink Toys"
